@@ -1,0 +1,41 @@
+_repo: Indianerleben-b-El-gran-Chaco-Sudamerika_73205
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nordenskiöld, Erland
+    aliases:
+    - Nordenskiold, Erland
+    - Nordenskiöld, Erland, friherre
+    - Nordenskiöld, Nils Erland Herbert
+    birthdate: 1877
+    deathdate: 1932
+    gutenberg_agent_id: '56985'
+    url: http://www.gutenberg.org/2009/agents/56985
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Erland_Nordenski%C3%B6ld
+    - https://sv.wikipedia.org/wiki/Erland_Nordenski%C3%B6ld
+    - https://de.wikipedia.org/wiki/Erland_Nordenski%C3%B6ld
+description: ''
+gutenberg_issued: '2024-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73205'
+  lccn: '13018335'
+language: de
+pgterms:marc905: 20170722101533nordenskil
+pgterms:marc906: '1912'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLeipzig :$bAlbert Bonnier, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gran Chaco'
+- !lcsh 'Bolivia -- Description and travel'
+- !lcsh 'Indians of South America -- Gran Chaco'
+- !lcc 'F3301'
+- GITenberg
+title: 'Indianerleben : $b El gran Chaco (Südamerika)'
+url: http://www.gutenberg.org/ebooks/73205
