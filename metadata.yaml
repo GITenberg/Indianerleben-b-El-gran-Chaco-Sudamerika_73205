@@ -1,5 +1,8 @@
 _repo: Indianerleben-b-El-gran-Chaco-Sudamerika_73205
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73205-h/images/cover.jpg
 creator:
   author:
     agent_name: Nordenskiöld, Erland
@@ -16,6 +19,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Erland_Nordenski%C3%B6ld
     - https://de.wikipedia.org/wiki/Erland_Nordenski%C3%B6ld
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73205#Indianerleben-b-El-gran-Chaco-Sudamerika
 gutenberg_issued: '2024-03-19'
 gutenberg_type: Text
 identifiers:
